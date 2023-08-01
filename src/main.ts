@@ -6,6 +6,7 @@ import './topics/01-basic-types'; //Aquí lo importamos
 import './topics/02-object-interface'; //Aquí lo importamos
 import './topics/03-functions'; //Aquí lo importamos
 import './topics/04-homework-types'; //Aquí lo importamos
+import './topics/05-destructuring'; //Aquí lo importamos
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
